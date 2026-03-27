@@ -41,7 +41,7 @@ Saarthi-AI/
 ## ▶️ How to Run
 
 1. Clone the repo:
-
+git clone https://github.com/shauryadubey91/Saarthi-AI.git
 
 2. Install dependencies:
 pip install -r requirements.txt
